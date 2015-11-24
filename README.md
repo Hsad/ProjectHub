@@ -17,7 +17,7 @@ Position Based Dynamics:
 Procedural Landscapes:  
 Procedural Cities:  
 
-(if we ever can screen cap)
+(if we ever can screen cap)  
 Runnr: A competitive, territory based, running app for iOS and somewhat Android
 
 
