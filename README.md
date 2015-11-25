@@ -12,7 +12,7 @@ Old Game/Animation Portfolio:
 https://www.youtube.com/watch?v=26mFid3BILM
 
 THREE.js Projects:
-)For the Time being you will need to clone these repositories and run the html file.  Ideally In chrome.  
+(For the Time being you will need to clone these repositories and run the html file.  Ideally In chrome.  
 I want to get a simple URL you can go to, but for the time being this will have to suffice.  Sorry)  
 Position Based Dynamics:  
 https://github.com/Hsad/PositionBasedDynamics  
