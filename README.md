@@ -20,7 +20,7 @@ Procedural Landscapes:
 https://github.com/Hsad/ProcLand  
 Procedural Cities:  
 https://github.com/Hsad/ProcCity  
-Procedural Space Stations:
+Procedural Space Stations:  
 https://github.com/Hsad/ProcSat  
 
 (if we ever can screen cap it in action)  
